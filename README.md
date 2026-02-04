@@ -6,7 +6,7 @@ A native macOS application for calculating VMAF (Video Multi-Method Assessment F
 
 - Native macOS interface
 - Single mode: quick, one-off comparisons with per-frame metrics and graphs
-- Batch mode: queue multiple comparison videos against one reference (validates resolutions up front; shows per-item progress/frames/FPS; preserves completed items between runs)
+- Batch mode: queue multiple comparison videos against one reference
 - 4K support with automatic model selection (1080p vs 4K) and clear mismatch errors
 - Detailed metrics including:
   - VMAF score
